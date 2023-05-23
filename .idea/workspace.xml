@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cf8f2b2-f2bb-4eed-b7d3-9a9d5d905a8c" name="Changes" comment="" />
+    <list default="true" id="5cf8f2b2-f2bb-4eed-b7d3-9a9d5d905a8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vendor-Service/src/main/java/com/monstarbill/master/controller/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor-Service/src/main/java/com/monstarbill/master/controller/SupplierController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="fa05b1b2-6360-4bd2-9684-872e6421c700" />
-        <option name="url" value="git@github.com:tukaim-2023/GitPractices.git" />
+        <option name="url" value="https://github.com/tukaim-2023/GitProjectDemo.git" />
       </UrlAndAccount>
     </option>
   </component>

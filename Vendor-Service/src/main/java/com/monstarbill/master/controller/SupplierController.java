@@ -32,12 +32,11 @@ public class SupplierController {
 		return ResponseEntity.ok(supplier);
 	}
 	
-	@GetMapping("/get/all")
-	public ResponseEntity<List<Supplier>> getAllSupplier(){
-		
-		List<Supplier> suppliers=supplierService.getAllSupplier();
+	@GetMapping("/get")
+	public ResponseEntity<Supplier> getAllSupplier(@RequestParam Long id){
+		 Supplier supplier=supplierService.getSupplierById();
 		log.info("Supplier get all successfully");
-		return ResponseEntity.ok(suppliers);
+		return ResponseEntity.ok(supplier);
 	}
 	
 }
